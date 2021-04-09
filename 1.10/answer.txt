@@ -1,0 +1,2 @@
+I do get the same content for the few websites I've tried all the time.
+The times do vary a little, and I can't spot any time difference I'd pin on caching.

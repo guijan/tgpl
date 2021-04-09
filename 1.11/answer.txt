@@ -1,0 +1,1 @@
+If the website doesn't respond, fetchall stalls. The attempt for the specific website timeouts after 30 seconds.
